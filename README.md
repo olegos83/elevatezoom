@@ -3,6 +3,8 @@
 
 elevateZoom - A jQuery image zoom plugin
 
+## Added features
+- Coming soon...
 
 ## Getting Started
 
